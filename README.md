@@ -1,3 +1,5 @@
+![alt text](https://github.com/microsoft/CDN-CSU-Samples/blob/main/images/CSU%20Logo.jpeg?raw=true)
+
 # Canadian Customer Success Unit Samples
 
 Disclaimer 
